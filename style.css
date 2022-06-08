@@ -101,6 +101,9 @@ display: none;
  .container {
   margin: 5px;
  }
+ #wrong {
+  right: 10%;
+ }
 }
 .choiced {
  border:2px solid rgba(85,83,255,1)
@@ -110,4 +113,57 @@ display: none;
 }
 .wrong {
  border: 2px solid rgba(212,33,84,1);
+}
+#true {
+ background-color: rgba(80,204,47,1);
+ height: 20px;
+ width: 20px;
+ border-radius: 50%;
+ position: absolute;
+ top: 10%;
+ padding: 15px;
+ font-size: 20px;
+ display: flex;
+ color: white;
+ align-items: center;
+ justify-content: center;
+
+}
+#wrong {
+ background-color: rgba(212,33,84,1);
+ height: 20px;
+ width: 20px;
+ border-radius: 50%;
+ position: absolute;
+ top: 10%;
+ right: 10%;
+ padding: 15px;
+ font-size: 20px;
+ display: flex;
+ color: white;
+ align-items: center;
+ justify-content: center;
+}
+.pop {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ padding: 15px;
+ text-align: center;
+ display: flex;
+ flex-direction:column ;
+ gap: 20px;
+ border-radius: 10px;
+ align-items: center;
+ color: rgb(12, 5, 5);
+ background:rgba(80,204,47,1) ;
+ transform: translate(-50%,-50%);
+}
+.ok {
+ width: fit-content;
+ padding: 10px;
+ font-size: 20px;
+ border: none;
+ border-radius: inherit;
+
 }
