@@ -1,0 +1,290 @@
+{
+"1":{
+ "question":"..... are Insoluble in the media in which are applied. ",
+  "A":"Acids",
+  "B":"Pigments",
+  "C":"Dyes",
+  "D":"Extract",
+  "ans":"b)"
+},
+"2":{
+ "question":"- ………… are completely or at least partially soluble.",
+  "A":"Acids",
+  "B":"Pigments",
+  "C":"Dyes",
+  "D":"Extract",
+  "ans":"c)"
+},
+"3":{
+ "question":"particle have to be attached to substrates by additional compounds",
+  "A":"Acids",
+  "B":"Pigments",
+  "C":"Dyes",
+  "D":"Extract",
+  "ans":"b)"
+},
+"4":{
+ "question":"- ……………… Shift: Shifts of the absorption maximum to start wavelength",
+  "A":"Hypthochromic",
+  "B":"Hyperchromic",
+  "C":"Bathochromic Shift ",
+  "D":"Hypochromic change"
+  ,"ans":"a)"
+ },
+"5":{
+ "question":"………: The increase in the magnitude of extinction coefficient (absorption)",
+  "A":"Hypthochromic",
+  "B":"Hyperchromic",
+  "C":"Bathochromic Shift ",
+  "D":"Hypochromic change"
+  ,"ans":"b)"
+ },
+"6":{
+ "question":"…………..: It is a decrease in the magnitude of extinction coefficient. ",
+  "A":"Hypthochromic",
+  "B":"Hyperchromic",
+  "C":"Bathochromic Shift ",
+  "D":"Hypochromic change"
+  ,"ans":"d)"
+ },
+"7":{
+ "question":"Steric Effects; ......... conjugation. ",
+  "A":"increase ",
+  "B":"decrease",
+  "C":" prevent",
+  "D":"no effect"
+  ,"ans":"b)"
+ },
+"8":{
+ "question":"Trans absorb at ………. wavelength than cis.",
+  "A":"long ",
+  "B":"Short",
+  "C":" Same",
+  "D":"Exact"
+  ,"ans":"c)"
+ },
+"9":{
+ "question":"The ………..: e.g.: Phenolic (OH), -NH2, -NHR, -N2R, SO3H, COOH ….",
+  "A":"Chromogene ",
+  "B":"Auxochrome",
+  "C":" Chromophore",
+  "D":"Dye"
+  ,"ans":"b)"
+ },
+"10":{
+ "question":" c=c,c=o,c=s,n=o,=o,-No2 are called ………. ",
+  "A":"Chromogene ",
+  "B":"Auxochrome",
+  "C":" Chromophore",
+  "D":"Dye"
+  ,"ans":"c)"
+ },
+"11":{
+ "question":" -N=N- are called ………. ",
+  "A":"Chromogene ",
+  "B":"Auxochrome",
+  "C":" Chromophore",
+  "D":"Dye"
+  ,"ans":"c)"
+ },
+"12":{
+ "question":" &#9004;-N=N-&#9004; are called ………. ",
+  "A":"Chromogene ",
+  "B":"Auxochrome",
+  "C":" Chromophore",
+  "D":"Dye"
+  ,"ans":"a)"
+ },
+"13":{
+ "question":" For single aromatic substance and heterocyclic, strong absorption bands inregion of ……….",
+  "A":"IR ",
+  "B":"Visible",
+  "C":" U.V. ",
+  "D":"Radio"
+  ,"ans":"c)"
+ },
+"14":{
+ "question":"With complicated highly condensed hydrocarbons, absorption band isshifted in ………… region.",
+  "A":"IR ",
+  "B":"Visible",
+  "C":" U.V. ",
+  "D":"Radio"
+  ,"ans":"b)"
+ },
+"15":{
+ "question":"The ………..: It is certain groups (electron acceptors) when are introducedinto an aromatic molecule, the absorption band is shifted towards the Visibleregion.",
+ "A":"Chromogene ",
+ "B":"Auxochrome",
+ "C":" Chromophore",
+ "D":"Dye"
+  ,"ans":"c)"
+ },
+"16":{
+ "question":"The ………..: It is Parent Substance of Dyestuff, formed after addition ofChromophore to the dye structure.",
+ "A":"Chromogene ",
+ "B":"Auxochrome",
+ "C":" Chromophore",
+ "D":"Dye"
+  ,"ans":"a)"
+ },
+"17":{
+ "question":"The …………: It is (electron donor) groups give (increase) the moleculesaffinity for the fiber",
+ "A":"Chromogene ",
+ "B":"Auxochrome",
+ "C":" Chromophore",
+ "D":"Dye"
+  ,"ans":"b)"
+ },
+"18":{
+ "question":"The absorbed bands cause …….. types of energy change.",
+ "A":"two ",
+ "B":"four",
+ "C":" three",
+ "D":"six"
+  ,"ans":"c)"
+ },
+"19":{
+ "question":"An electron is moved from an orbit or more is called ……...",
+ "A":"Vibrational ",
+ "B":"Rotational",
+ "C":" Transitional",
+ "D":"absorption"
+  ,"ans":"c)"
+ },
+"20":{
+ "question":"A nuclei are caused to vibrate is called ……...",
+ "A":"Vibrational ",
+ "B":"Rotational",
+ "C":" Transitional",
+ "D":"absorption"
+  ,"ans":"a)"
+ },
+"21":{
+ "question":"A nuclei are caused to rotate is called ……...",
+ "A":"Vibrational ",
+ "B":"Rotational",
+ "C":" Transitional",
+ "D":"absorption"
+  ,"ans":"b)"
+ },
+"22":{
+ "question":"Colored Substance become Colorless by ……….",
+ "A":"Unsaturation ",
+ "B":"Elimination",
+ "C":" Saturation",
+ "D":"Hydration"
+  ,"ans":"d)"
+ },
+"23":{
+ "question":"Most …….. compounds contain conjugation system of alternate double andsingle bonds.",
+ "A":"Colorless ",
+ "B":"Colored",
+ "C":" Liquid",
+ "D":"Solid"
+  ,"ans":"b)"
+ },
+"24":{
+ "question":"If color absorbed light is Yellow - Green, color seen is …….",
+ "A":"Violet ",
+ "B":"Purple",
+ "C":" Red",
+ "D":"Indigo (Dark Blue)"
+  ,"ans":"a)"
+ },
+"25":{
+ "question":"If color absorbed light is Yellow, color seen is ………",
+ "A":"Violet ",
+ "B":"Purple",
+ "C":" Red",
+ "D":"Indigo (Dark Blue)"
+  ,"ans":"d)"
+ },
+"26":{
+ "question":"If color absorbed light is Orange, color seen is ………. ",
+ "A":"Violet ",
+ "B":"Blue",
+ "C":" Red",
+ "D":"Indigo (Dark Blue)"
+  ,"ans":"b)"
+ },
+"27":{
+ "question":"If color absorbed light is Purple, color seen is …………. ",
+ "A":"Violet ",
+ "B":"Blue",
+ "C":" Red",
+ "D":"Green"
+  ,"ans":"d)"
+ },
+"28":{
+ "question":"Aliphatic orange compounds commonly show ………. general absorptionthan closed-chain compounds",
+ "A":"Stronger ",
+ "B":"Weaker",
+ "C":" equal",
+ "D":"No"
+  ,"ans":"b)"
+ },
+"29":{
+ "question":"With ….. in molecular weight, there is an increase in general absorption",
+ "A":"increase ",
+ "B":"decrease",
+ "C":" equal",
+ "D":"No"
+  ,"ans":"a)"
+ },
+"30":{
+ "question":"The red color has the ……. wavelength and it least reflected",
+ "A":"Shortest ",
+ "B":"longest",
+ "C":" Highest",
+ "D":"Lowest"
+  ,"ans":"b)"
+ },
+"31":{
+ "question":"The red color is ……. reflected.",
+ "A":"Shortest ",
+ "B":"longest",
+ "C":" least",
+ "D":"No"
+  ,"ans":"c)"
+ },
+"32":{
+ "question":"If white light is passed through solution which absorb all the light exceptthe yellow, the solution will appear …….. to eye.",
+ "A":"White ",
+ "B":"Green",
+ "C":" Red",
+ "D":"Yellow"
+  ,"ans":"d)"
+ },
+"33":{
+ "question":"If color absorbed light is Violet, color seen is ………..",
+ "A":"Yellow - Green  ",
+ "B":"Green",
+ "C":" Red",
+ "D":"yellow"
+  ,"ans":"a)"
+ },
+"34":{
+ "question":"If color absorbed light is Indigo (Dark Blue), color seen is …",
+ "A":"Yellow - Green  ",
+ "B":"Green",
+ "C":" Red",
+ "D":"yellow"
+  ,"ans":"d)"
+ },
+"35":{
+ "question":"If color absorbed light is Blue, color seen is …….",
+ "A":"Orange",
+ "B":"Green",
+ "C":" Red",
+ "D":"yellow"
+  ,"ans":"a)"
+ },
+"36":{
+ "question":"If color absorbed light is Green Blue, color seen is …….",
+ "A":"Orange",
+ "B":"Green",
+ "C":" Red",
+ "D":"yellow"
+  ,"ans":"c)"
+ }
+}
