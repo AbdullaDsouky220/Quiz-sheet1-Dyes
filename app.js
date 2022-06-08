@@ -40,9 +40,7 @@ change.addEventListener('click',()=>{
    eles[2].classList.remove('wrong','rightOne','wrongOne');
    eles[3].classList.remove('wrong','rightOne','wrongOne');
    let result=(WrongCount+count)-1;
-   if(result==2){
-
-      
+   if(result==10){
     document.querySelector('.container').style.filter="blur(1px)";
     createpop(trueContainer.textContent,wrongContainer.textContent);
     let ok=document.querySelector('.ok');
